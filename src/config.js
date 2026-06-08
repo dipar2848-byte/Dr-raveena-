@@ -9,7 +9,7 @@ export const CLINIC = {
   phoneRaw: '918879131393', // tel: + wa.me
   whatsappNumber: '918879131393',
   email: 'DrRaveena@gmail.com',
-  address: 'phase-2,new manak hospital,plot no 2 sec-8,ravij gandhi bridge w nerul, navimumbai, Maharashtra 400706',
+  address: 'phase-2,new manak hospital,plot no 2 sec-8,rajiv gandhi bridge w nerul, navimumbai, Maharashtra 400706',
   hours: 'Mon–Sat · 8:00 AM – 8:00 PM',
 }
 

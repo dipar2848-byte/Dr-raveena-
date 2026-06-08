@@ -3,13 +3,13 @@
 // IMPORTANT: WhatsApp number in international format WITHOUT '+' or spaces.
 // Example for India: 91 followed by the 10-digit number.
 export const CLINIC = {
-  name: 'Pulse Physio',
+  name: 'Dr Raveena's clinic',
   tagline: 'Move better. Live pain-free.',
-  phone: '+91 98765 43210',
-  phoneRaw: '919876543210', // tel: + wa.me
-  whatsappNumber: '919876543210',
-  email: 'care@pulsephysio.in',
-  address: '2nd Floor, Wellness Tower, MG Road, Bengaluru, KA 560001',
+  phone: '+91 8879131393',
+  phoneRaw: '918879131393', // tel: + wa.me
+  whatsappNumber: '918879131393',
+  email: 'DrRaveena@gmail.com',
+  address: 'phase-2,new manak hospital,plot no 2 sec-8,ravij gandhi bridge w nerul, navimumbai, Maharashtra 400706',
   hours: 'Mon–Sat · 8:00 AM – 8:00 PM',
 }
 

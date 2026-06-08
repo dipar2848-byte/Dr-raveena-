@@ -3,7 +3,7 @@
 // IMPORTANT: WhatsApp number in international format WITHOUT '+' or spaces.
 // Example for India: 91 followed by the 10-digit number.
 export const CLINIC = {
-  name: 'Dr Raveena's clinic',
+  name: 'Dr Raveena's ',
   tagline: 'Move better. Live pain-free.',
   phone: '+91 8879131393',
   phoneRaw: '918879131393', // tel: + wa.me
